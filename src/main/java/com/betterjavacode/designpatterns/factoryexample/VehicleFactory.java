@@ -1,5 +1,10 @@
 package com.betterjavacode.designpatterns.factoryexample;
 
+/**
+ * 
+ * @author Yogesh Mali
+ *
+ */
 public class VehicleFactory {
 
     public Vehicle getVehicle(String vehicleType) {
